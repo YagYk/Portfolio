@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/YagYk/Portfolio.git/static/css/main.0a8d6ae1.css",
+    "main.js": "/YagYk/Portfolio.git/static/js/main.f3403a05.js",
+    "static/js/787.a2cb61a6.chunk.js": "/YagYk/Portfolio.git/static/js/787.a2cb61a6.chunk.js",
+    "static/media/helvetica-neu.ttf": "/YagYk/Portfolio.git/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/YagYk/Portfolio.git/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/logo-s.png": "/YagYk/Portfolio.git/static/media/logo-s.9f2242b748f117aa9163.png",
+    "static/media/LaBelleAurore.woff2": "/YagYk/Portfolio.git/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo_sub.png": "/YagYk/Portfolio.git/static/media/logo_sub.d0b2da2d0c96f0bfe3eb.png",
+    "static/media/CoolveticaRg-Regular.woff": "/YagYk/Portfolio.git/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/YagYk/Portfolio.git/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/YagYk/Portfolio.git/index.html",
+    "main.0a8d6ae1.css.map": "/YagYk/Portfolio.git/static/css/main.0a8d6ae1.css.map",
+    "main.f3403a05.js.map": "/YagYk/Portfolio.git/static/js/main.f3403a05.js.map",
+    "787.a2cb61a6.chunk.js.map": "/YagYk/Portfolio.git/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a8d6ae1.css",
+    "static/js/main.f3403a05.js"
+  ]
+}
